@@ -1,0 +1,7 @@
+One data file for each sensor from all 3 devices:
+– Smartphone: Accelerometer, Gravity, Gyroscope, LinearAcceleration (all 
+sampled at 200Hz) + Magnetometer (50Hz)
+– Smartwatch: MSAccelerometer, MSGyroscope (67Hz)
+	      MSAccelerometer800, MSGyroscope800 (800Hz)
+– Smartglasses: JinsAccelerometer, JinsGyroscope (20 Hz)
+		JinsAccelerometer800, JinsGyroscope800 (800 Hz)
